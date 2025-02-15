@@ -21,7 +21,7 @@ pip install opencv-python
 
 Installation
 Clone this repository using:
-git clone https://github.com/your-username/steganography-project.git
+git clone https://github.com/vaibhav0x44/Stegno-Project-AICTE.git
 cd steganography-project
 
 Usage
