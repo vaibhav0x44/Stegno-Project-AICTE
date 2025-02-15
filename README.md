@@ -41,6 +41,8 @@ Run the decoding script to extract a hidden message:
 python3 decode_script.py
 Provide the encoded image and the correct password to reveal the hidden message.
 
+EXE File Link : https://drive.google.com/file/d/1Rti-0xl9ES-HCkszrAaLxRk_fs5qgc45/view?usp=sharing
+
 End Users
 
 This tool is beneficial for:
